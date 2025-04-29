@@ -5,7 +5,9 @@ import Navbar from './components/Navbar/Navbar';
 function App() {
   return (
     <div className="">
+      {/* Navbar Section */}
       <Navbar></Navbar>
+      {/* Banner Section */}
       <Banner></Banner>
     </div>
   );
